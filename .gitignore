@@ -1,0 +1,27 @@
+# VS Code settings
+.vscode/
+
+# Input/output files used for testing
+input.txt
+output.txt
+
+# Compiled binary files
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# Mac/Linux metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# CPH Judge files (Competitive Programming Helper plugin)
+.cph/
+input.txt
+output.txt
+expected_output.txt
+error.txt
+debug.cpp
